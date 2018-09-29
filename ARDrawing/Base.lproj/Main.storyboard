@@ -43,7 +43,8 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="sceneView" destination="gMm-hT-Rqa" id="WGD-Rl-3ni"/>
+                        <outlet property="draw" destination="6tG-cb-GLh" id="IwE-EP-KIK"/>
+                        <outlet property="sceneView" destination="gMm-hT-Rqa" id="g1r-F9-9BX"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
